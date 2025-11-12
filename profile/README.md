@@ -35,7 +35,6 @@ Documentation complète, guides techniques, et tutoriels.
 🎭 **Avatars VRM personnalisables** - Utilisez n'importe quel modèle VRM
 🤖 **IA conversationnelle locale** - Pas besoin de cloud, tout fonctionne sur votre PC
 😊 **Expressions émotionnelles** - Synchronisation automatique avec l'analyse de sentiment
-🎨 **Open Source** (bientôt) - Code transparent et modifiable
 🔒 **Confidentialité** - Vos données restent sur votre machine
 
 ---
