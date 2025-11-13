@@ -12,11 +12,15 @@ Nous développons **Workly**, une application qui apporte la vie à votre bureau
 
 ## 🚀 Nos Projets
 
-### 🖥️ [workly-desktop](https://github.com/WorklyHQ/workly-desktop)
+### 🌟 [workly-public](https://github.com/WorklyHQ/workly-public)
 
-Application principale avec avatar VRM 3D, IA conversationnelle, et expressions faciales dynamiques.
+**Showcase public de Workly Desktop** - Démos fonctionnelles et documentation complète.
 
-**Tech Stack :** Python • Unity • UniVRM • LLM local • PySide6
+Application avec avatar VRM 3D, IA conversationnelle locale, et expressions faciales dynamiques.
+
+**Tech Stack :** Python • Unity • UniVRM • llama-cpp-python • PySide6
+
+**Contenu :** 4 démos interactives • Documentation API • Guides techniques • Assets
 
 ### 🌐 [workly-website](https://github.com/WorklyHQ/workly-website)
 
@@ -32,11 +36,12 @@ Documentation complète, guides techniques, et tutoriels.
 
 ## ✨ Ce qui rend Workly unique
 
-🎭 **Avatars VRM personnalisables** - Utilisez n'importe quel modèle VRM
-🤖 **IA conversationnelle locale** - Pas besoin de cloud, tout fonctionne sur votre PC
-😊 **Expressions émotionnelles** - Synchronisation automatique avec l'analyse de sentiment
-🎨 **Open Source** (bientôt) - Code transparent et modifiable
-🔒 **Confidentialité** - Vos données restent sur votre machine
+- 🎭 **Avatars VRM personnalisables** - Utilisez n'importe quel modèle VRM (VRoid, VSeeFace compatible)
+- 🤖 **IA conversationnelle locale** - Pas besoin de cloud, tout fonctionne sur votre PC
+- 😊 **Expressions émotionnelles** - 14 blendshapes avec transitions fluides
+- 🎮 **Démos fonctionnelles** - 4 exemples prêts à l'emploi (chatbot, VRM, Discord, mémoire)
+- 🔒 **Confidentialité** - Vos données restent sur votre machine
+- 📚 **Documentation complète** - Guides, API, tutoriels pas-à-pas
 
 ---
 
@@ -68,10 +73,11 @@ Documentation complète, guides techniques, et tutoriels.
 - [x] Expressions faciales dynamiques
 - [x] Chat IA avec LLM local
 - [x] Analyse d'émotions
+- [x] Showcase public avec démos
 - [ ] Text-to-Speech (TTS)
 - [ ] Lip-sync avec visèmes
 - [ ] Mouvement libre sur le bureau
-- [ ] Interactions environnement
+- [ ] Intégration Discord avancée
 
 ---
 
@@ -107,7 +113,7 @@ Nous accueillons les contributions ! Consultez nos repos pour :
 
 ## 📜 License
 
-**En cours de définition** 
+**En cours de définition**
 
 ---
 
